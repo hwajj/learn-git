@@ -1,8 +1,3 @@
 chapter1
 
 용사(은)는 깃을 마스터하기로 결심했다.
-<<<<<<< Updated upstream
-stage에 올라라!
-1번 stash
-=======
->>>>>>> Stashed changes
