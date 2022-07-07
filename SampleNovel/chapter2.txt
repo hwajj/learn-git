@@ -5,3 +5,7 @@ fast-forward merge로 간단하게 물리쳤다.
 
 다른 깃 브랜치를 병합!
 충돌이 발생했다!
+merge로 물리쳤다!
+
+
+용사는 restore 를 습득했다 !
