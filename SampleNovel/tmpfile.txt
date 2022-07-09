@@ -1,1 +1,3 @@
-git -u 옵션이 뭘까?
+git -u 옵션이 뭘까???
+
+upstream!!
